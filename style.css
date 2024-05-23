@@ -1,0 +1,213 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
+
+.navbar-brand {
+    font-size: 1.5em;
+}
+
+.navbar-menu {
+    display: flex;
+}
+
+.nav-link {
+    margin-left: 20px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px;
+    background-color: #007BFF;
+    color: #fff;
+}
+
+.cta-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
+
+.site-main {
+    padding: 20px;
+}
+
+.tag-title {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.post {
+    margin-bottom: 20px;
+}
+
+.post-title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.post-title a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.post-title a:hover {
+    text-decoration: underline;
+}
+.main-content {
+    width: 75%;
+    float: left;
+    padding: 20px;
+}
+
+.post-title {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.sidebar {
+    width: 25%;
+    float: right;
+    padding: 20px;
+    background-color: #eee;
+}
+.main-content {
+    width: 75%;
+    float: left;
+    padding: 20px;
+}
+
+.search-title,
+.category-title {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.post {
+    margin-bottom: 20px;
+}
+
+.post-title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.post-title a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.post-title a:hover {
+    text-decoration: underline;
+}
+
+.sidebar {
+    width: 25%;
+    float: right;
+    padding: 20px;
+    background-color: #eee;
+}
+
+.error-title {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.home-link {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    text-decoration: none;
+}
+
+.home-link:hover {
+    background-color: #0056b3;
+}
+
+.sidebar {
+    width: 25%;
+    float: right;
+    padding: 20px;
+    background-color: #eee;
+}
+.woocommerce-cart-form,
+.checkout.woocommerce-checkout {
+    width: 75%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.woocommerce-cart-form input[type="submit"],
+.checkout.woocommerce-checkout input[type="submit"] {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.woocommerce-cart-form input[type="submit"]:hover,
+.checkout.woocommerce-checkout input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.woocommerce-MyAccount-navigation {
+    width: 25%;
+    float: left;
+    padding: 20px;
+    background-color: #eee;
+}
+
+.woocommerce-MyAccount-navigation ul {
+    list-style: none;
+    padding: 0;
+}
+
+.woocommerce-MyAccount-navigation ul li {
+    margin-bottom: 10px;
+}
+
+.woocommerce-MyAccount-navigation ul li a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.woocommerce-MyAccount-navigation ul li a:hover {
+    text-decoration: underline;
+}
+
+.woocommerce-MyAccount-content {
+    width: 75%;
+    float: right;
+    padding: 20px;
+    background-color: #fff;
+}
